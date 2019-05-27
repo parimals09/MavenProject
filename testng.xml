@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="suite1" parallel="false">
+	<test name="testngTest">
+		<classes>
+			<class name="com.maven.proj.A1" />
+			<class name="com.maven.proj.A2" />
+		</classes>
+		
+	</test>
+</suite>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="suite1" duration-ms="65055" started-at="2019-05-27T17:18:52Z" finished-at="2019-05-27T17:19:57Z">
+    <groups>
+    </groups>
+    <test name="testngTest" duration-ms="65055" started-at="2019-05-27T17:18:52Z" finished-at="2019-05-27T17:19:57Z">
+      <class name="com.maven.proj.A1">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.maven.proj.A1@42d3bd8b]" name="loginTest" duration-ms="31072" started-at="2019-05-27T17:18:52Z" finished-at="2019-05-27T17:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.maven.proj.A1 -->
+      <class name="com.maven.proj.A2">
+        <test-method status="PASS" signature="getTitleTest()[pri:0, instance:com.maven.proj.A2@26ba2a48]" name="getTitleTest" duration-ms="33894" started-at="2019-05-27T17:19:24Z" finished-at="2019-05-27T17:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitleTest -->
+      </class> <!-- com.maven.proj.A2 -->
+    </test> <!-- testngTest -->
+  </suite> <!-- suite1 -->
+</testng-results>
