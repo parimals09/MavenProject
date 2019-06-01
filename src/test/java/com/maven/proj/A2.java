@@ -9,7 +9,7 @@ public class A2
 	@Test
 	public void getTitleTest()
 	{
-	System.setProperty("webdriver.gecko.driver", "E:\\Browser_Drivers\\geckodriver.exe");
+	System.setProperty("webdriver.gecko.driver", "E:\\Browser_Drivers\\Latest\\geckodriver.exe");
 	WebDriver driver = new FirefoxDriver();
 driver.get("https:\\www.google.com");
 driver.quit();
